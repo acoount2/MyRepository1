@@ -12,3 +12,4 @@ int main()
     printf("You entered the string %s\n",array);
   return 0;
 }
+//new line
